@@ -42,8 +42,8 @@ fs = gridfs.GridFS(mongo.db)
 # Email configuration
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 465
-app.config['MAIL_USERNAME'] = 'homesafty5163@gmail.com'
-app.config['MAIL_PASSWORD'] = 'fnix pspg gvgz ppex'
+app.config['MAIL_USERNAME'] = 'example@gmail.com'
+app.config['MAIL_PASSWORD'] = 'XXXXX-XXXX-XXXXX'
 app.config['MAIL_USE_TLS'] = False
 app.config['MAIL_USE_SSL'] = True
 
